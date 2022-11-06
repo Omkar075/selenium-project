@@ -8,7 +8,7 @@ to use selenium for automating web browser and scraping data
 to create a dataframe out of all the scraped data
 # steps
 importing all required libraries(selenium,pandas,etc)
-creating a code to surf through all pages
+creating a code to surf through all pages/n
 removing unecessary data by droping down highlights
 scrolling through the page to load the html code
 extracting all the necessary data
